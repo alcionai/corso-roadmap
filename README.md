@@ -5,7 +5,7 @@ You can see the Corso project roadmap
 
 ## Guide to the roadmap
 
-Every item on the roadmap is an issue, with labels that indicates the following
+Every item on the roadmap is an issue, with labels that indicate the following
 categories:
 
 * **Workflow Feature Area** - describes the workflow area functionality (e.g.
@@ -45,7 +45,7 @@ options.
 
 ## Data Types
 
-The following is a list of data types which are currently tracked.  
+The following is a list of data types which are currently tracked (intended to have support).  
 
 * **m365:exchange** - Microsoft Exchange data.  
 
@@ -89,11 +89,13 @@ be selected for development.
 ## Released features
 
 When a feature is released, the corresponding item is tagged with label
-`released`. Additionally the item is closed as completed and a link is added to the changelog describing the change.  
+`released`. Additionally, the item is closed as completed and a link is added
+to the changelog describing the change.  
 
 ## Triage process
 
-Issues without an assigned status (**Status**=*No Status*) are still awating triage. For each of these, one of the follwing will happen:  
+Issues without an assigned status (**Status**=*No Status*) are still awating
+triage.  For each of these, one of the follwing will happen:  
 
 * *Assign to an upcoming quarter* - Issue is already well understood and fits
 with overall Corso project goals.  
@@ -104,4 +106,6 @@ more feedback and research to determine priority and potential timeline.
 * *Close issue as not planned* - Issue is a duplicate, stale, or won't fix
 (not aligned with near-term Corso goals).  
 
-Any feature that has not been already released but is assigned to a quarter that has already passed needs to go to the triage process even if the resolution is to push it to a subsequent quarter.  
+Any feature that has not been already released, but is assigned to a quarter that
+has already passed, needs to go to the triage process even if the resolution is to
+push it to a subsequent quarter.  
