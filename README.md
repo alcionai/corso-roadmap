@@ -18,7 +18,7 @@ by Corso and represented by a given item. Data type support is typically
 orthogonal to the workflows that may use it. See below for more details and
 list of current labels in this category.  
 
-* **Priority** - describes the priority of for a given item. Priority is often
+* **Priority** - describes the priority of a given item. Priority is often
 relative to other items within the same **Workflow Feature Area** or
 **DataType**. It is used to express relative ordering of such related items and
 slotting into roadmap stages. See details below.  
