@@ -55,7 +55,7 @@ The following is a list of data types which are currently tracked.
 
 * **m365:teams** - Microsoft Teams data.  
 
-*NOTE:* Initial Corso focus is non Microsoft 365 services.  
+*NOTE:* Initial Corso focus is on Microsoft 365 services.  
 
 ## Priorities
 
@@ -88,7 +88,7 @@ be selected for development.
 
 ## Released features
 
-When a feature is released, the corresponding ite is tagged with label
+When a feature is released, the corresponding item is tagged with label
 `released`. Additionally the item is closed as completed and a link is added to the changelog describing the change.  
 
 ## Triage process
