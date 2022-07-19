@@ -15,7 +15,7 @@ details and list of current labels in this category.
 
 * **Data Type** - describes the type of data (e.g. Exchange emails) supported
 by Corso and represented by a given item. Data type support is typically
-orthoginal to the workflows that may use it. See below for more details and
+orthogonal to the workflows that may use it. See below for more details and
 list of current labels in this category.  
 
 * **Priority** - describes the priority of for a given item. Priority is often
