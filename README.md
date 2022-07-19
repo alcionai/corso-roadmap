@@ -29,7 +29,7 @@ category.
 
 ## Workflow feature areas
 
-The following is a list of feature areas which are currently tracked.  
+The following is a list of feature areas which are currently tracked (intended to have support).  
 
 * **area:install** - Functionality related to Corso installation and packaging.
 
